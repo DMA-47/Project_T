@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Catalog.DAL.Entities
 {
-	class Storage
+	public class Storage
 	{
 		public int Id { get; set; }
 		public Product List_product { get; set; }
