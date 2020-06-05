@@ -6,3 +6,6 @@ D:\kpi\git\Project_T\Project\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.
 D:\kpi\git\Project_T\Project\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
 D:\kpi\git\Project_T\Project\BLL\obj\Debug\netcoreapp3.1\BLL.dll
 D:\kpi\git\Project_T\Project\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+D:\kpi\git\Project_T\Project\BLL\bin\Debug\netcoreapp3.1\CCL.dll
+D:\kpi\git\Project_T\Project\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\kpi\git\Project_T\Project\BLL\bin\Debug\netcoreapp3.1\DAL.pdb

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Project.Security.Identity
+namespace CCL.Security.Identity
 {
     public class Admin
         : User
