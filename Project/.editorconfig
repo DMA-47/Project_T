@@ -1,0 +1,25 @@
+﻿[*.cs]
+
+# xUnit1000: Test classes must be public
+dotnet_diagnostic.xUnit1000.severity = none
+
+# xUnit1001: Fact methods cannot have parameters
+dotnet_diagnostic.xUnit1001.severity = none
+
+# xUnit1002: Test methods cannot have multiple Fact or Theory attributes
+dotnet_diagnostic.xUnit1002.severity = none
+
+# xUnit1003: Theory methods must have test data
+dotnet_diagnostic.xUnit1003.severity = none
+
+# xUnit1004: Test methods should not be skipped
+dotnet_diagnostic.xUnit1004.severity = none
+
+# xUnit1005: Fact methods should not have test data
+dotnet_diagnostic.xUnit1005.severity = none
+
+# xUnit1006: Theory methods should have parameters
+dotnet_diagnostic.xUnit1006.severity = none
+
+# xUnit1007: ClassData must point at a valid class
+dotnet_diagnostic.xUnit1007.severity = none

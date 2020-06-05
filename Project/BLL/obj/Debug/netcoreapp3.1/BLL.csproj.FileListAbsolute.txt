@@ -1,0 +1,8 @@
+D:\kpi\git\Project_T\Project\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\kpi\git\Project_T\Project\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\kpi\git\Project_T\Project\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\kpi\git\Project_T\Project\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+D:\kpi\git\Project_T\Project\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\kpi\git\Project_T\Project\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\kpi\git\Project_T\Project\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\kpi\git\Project_T\Project\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
