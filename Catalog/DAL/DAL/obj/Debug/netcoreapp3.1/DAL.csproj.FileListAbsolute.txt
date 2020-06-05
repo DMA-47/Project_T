@@ -1,5 +1,0 @@
-D:\kpi\git\Project_T\Catalog\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
-D:\kpi\git\Project_T\Catalog\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.dll
-D:\kpi\git\Project_T\Catalog\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
-D:\kpi\git\Project_T\Catalog\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
-D:\kpi\git\Project_T\Catalog\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
