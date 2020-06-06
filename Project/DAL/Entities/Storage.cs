@@ -9,5 +9,7 @@ namespace Catalog.DAL.Entities
 		public int Id { get; set; }
 		public Product List_product { get; set; }
 		public int Num_list { get; set; }
+
+		public void metod2() { }
 	}
 }
