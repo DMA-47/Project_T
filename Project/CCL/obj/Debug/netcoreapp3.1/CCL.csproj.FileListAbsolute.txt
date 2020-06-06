@@ -1,0 +1,3 @@
+D:\kpi\git\Project_T\Project\CCL\obj\Debug\netcoreapp3.1\CCL.csprojAssemblyReference.cache
+D:\kpi\git\Project_T\Project\CCL\obj\Debug\netcoreapp3.1\CCL.AssemblyInfoInputs.cache
+D:\kpi\git\Project_T\Project\CCL\obj\Debug\netcoreapp3.1\CCL.AssemblyInfo.cs
